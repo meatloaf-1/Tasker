@@ -1,2 +1,2 @@
 # Tasker
-### A basic task list.
+Your basic, everyday task list.
